@@ -1,0 +1,8 @@
+{
+  "properties": {
+    "scope": "/subscriptions/e70a477b-e15d-43f3-ab0a-105f27ddaa5e/resourceGroups/rg-apiops-poc/providers/Microsoft.ApiManagement/service/apim-cai-dev/products/starter",
+    "allowTracing": false,
+    "ownerId": "/subscriptions/e70a477b-e15d-43f3-ab0a-105f27ddaa5e/resourceGroups/rg-apiops-poc/providers/Microsoft.ApiManagement/service/apim-cai-dev/users/1",
+    "state": "active"
+  }
+}
